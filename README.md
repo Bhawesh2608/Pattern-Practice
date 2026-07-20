@@ -4,11 +4,11 @@ A collection of logic-building pattern programs.
 
 ---
 
-### 1. Inverted & Hollow Alphabet Combination
+### 1. Pascal Triangle
 
-| Visual Output | Code |
-| :--- | :--- |
-| ![Pattern Preview](assets/pattern_01.png) | [View Code](patterns/inverted_hollow_alphabet.py) |
+| Code |
+| :--- |
+|[View Code](Patterns_code/Pascal_Triangle.c) |
 
 ---
 
