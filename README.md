@@ -21,7 +21,6 @@ A collection of logic-building pattern programs.
   1   7  21  35  35  21   7   1
 ```
 
----
 
 ### 2. Right Pascal Triangle
 
@@ -68,4 +67,18 @@ A collection of logic-building pattern programs.
       * * *     
      * * * *   
     * * * * *
+
+
+### 5. PalinDrome Triangular 
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/PalinDrome_Triangular.c)|
+
+                1           
+            2 1 2         
+          3 2 1 2 3       
+        4 3 2 1 2 3 4     
+      5 4 3 2 1 2 3 4 5   
+    6 5 4 3 2 1 2 3 4 5 6 
 
