@@ -165,3 +165,16 @@ A collection of logic-building pattern programs.
     * * * * * 
     * * * * * 
     * * * * * 
+
+### 13. Square Hollow Pattern
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Square_Hollow.c) |
+
+    * * * * * 
+    *       * 
+    *       * 
+    *       * 
+    * * * * * 
+
