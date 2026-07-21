@@ -194,7 +194,7 @@ A collection of logic-building pattern programs.
 
 | Code |
 | :--- |
-| [View Code](Patterns_code/Right_Half_Reverse_Pyramid) |
+| [View Code](Patterns_code/Right_Half_Reverse_Pyramid.c) |
 
     * * * * * 
     * * * *   
@@ -206,7 +206,7 @@ A collection of logic-building pattern programs.
 
 | Code |
 | :--- |
-| [View Code](Patterns_code/Left_Half_Pyramid) |
+| [View Code](Patterns_code/Left_Half_Pyramid.c) |
 
             * 
           * * 
@@ -218,7 +218,7 @@ A collection of logic-building pattern programs.
 
 | Code |
 | :--- |
-| [View Code](Patterns_code/Left_Half_Reverse_Pyramid)|
+| [View Code](Patterns_code/Left_Half_Reverse_Pyramid.c)|
 
     * * * * * 
       * * * * 
