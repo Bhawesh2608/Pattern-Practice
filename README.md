@@ -73,7 +73,7 @@ A collection of logic-building pattern programs.
 
 | Code |
 | :--- |
-| [View Code](Patterns_code/PalinDrome_Triangular.c)|
+| [View Code](Patterns_code/Palindrome_Triangular.c)|
 
               1           
             2 1 2         
@@ -154,4 +154,14 @@ A collection of logic-building pattern programs.
     4  5  6 
     7  8  9 10 
 
+### 12. Square Fill Patterns_code
 
+| Code |
+| :--- |
+| [View Code](Patterns_code/Square_fill.c) |
+
+    * * * * * 
+    * * * * * 
+    * * * * * 
+    * * * * * 
+    * * * * * 
