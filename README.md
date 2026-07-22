@@ -326,4 +326,20 @@ A collection of logic-building pattern programs.
        * *       
         *         
 
+### 25. Top Half: Inverted Right-Angled Alphabet Triangle
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Top_Half:_Inverted_Right-Angled_Alphabet_Triangle.c) |
+
+    A B C D E 
+    A B C D 
+    A B C 
+    A B 
+    A 
+    A B       
+    A   B     
+    A     B   
+    A B C D E
+
 
