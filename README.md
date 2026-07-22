@@ -342,4 +342,15 @@ A collection of logic-building pattern programs.
     A     B   
     A B C D E
 
+### 26. Hollow Rectangel 
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Hollow_Rectangel.c) |
+
+    * * * * * * * * * * 
+    *                 * 
+    *                 * 
+    *                 * 
+    * * * * * * * * * * 
 
