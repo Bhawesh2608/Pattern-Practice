@@ -21,7 +21,6 @@ A collection of logic-building pattern programs.
   1   7  21  35  35  21   7   1
 ```
 
-
 ### 2. Right Pascal Triangle
 
 | Code |
@@ -40,7 +39,6 @@ A collection of logic-building pattern programs.
 *
 ```
 
-
 ### 3. Butter Fly Star
 
 | Code |
@@ -55,7 +53,6 @@ A collection of logic-building pattern programs.
       *       *   
     *           * 
 
-
 ### 4. Diamond Pattern
 
 | Code |
@@ -66,8 +63,27 @@ A collection of logic-building pattern programs.
        * *       
       * * *     
      * * * *   
-    * * * * *
+    * * * * * 
+     * * * *   
+      * * *     
+       * *       
+        *       
 
+### 5. Hollow Diamond Pyramid
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Hollow_Diamond_Pyramid.c) |
+
+        *         
+       * *       
+      *   *     
+     *     *   
+    *       * 
+     *     *   
+      *   *     
+       * *       
+        *        
 
 ### 5. PalinDrome Triangular 
 
@@ -257,3 +273,5 @@ A collection of logic-building pattern programs.
       3 4 5     
      2 3 4 5   
     1 2 3 4 5 
+
+
