@@ -288,7 +288,42 @@ A collection of logic-building pattern programs.
        * * 
       *   * 
      *     * 
+    * * * * *
+
+### 22. Triangle Star Pattern
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Triangle_Star_Pattern.c) |
+
+        *         
+       * *       
+      * * *     
+     * * * *   
     * * * * * 
 
+### 23. Hollow Triangle Pattern
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Hollow_Triangle_Pattern.c ) |
+
+        *         
+       * *       
+      *   *     
+     *     *   
+    * * * * * 
+
+### 24. Hollow Reverse Triangle Pattern
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Hollow_Reverse_Triangle_Pattern.c )|
+
+    * * * * * 
+     *     *   
+      *   *     
+       * *       
+        *         
 
 
