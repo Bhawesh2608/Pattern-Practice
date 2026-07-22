@@ -230,7 +230,7 @@ A collection of logic-building pattern programs.
 
 | Code |
 | :--- |
-| [View Code](Patterns_code/k_pattern.c) |
+| [View Code](Patterns_code/K_pattern.c) |
 
     * * * * * 
     * * * *   
@@ -242,4 +242,18 @@ A collection of logic-building pattern programs.
     * * * *   
     * * * * *  
 
+### 19. Mirror Image Triangle Pattern
 
+| Code |
+| :--- |
+| [View Code](Patterns_code/Mirror_Image_Triangle_Pattern.c) |
+
+    1 2 3 4 5 
+     2 3 4 5   
+      3 4 5     
+       4 5       
+        5         
+       4 5       
+      3 4 5     
+     2 3 4 5   
+    1 2 3 4 5 
