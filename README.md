@@ -306,7 +306,7 @@ A collection of logic-building pattern programs.
 
 | Code |
 | :--- |
-| [View Code](Patterns_code/Hollow_Triangle_Pattern.c ) |
+| [View Code](Patterns_code/Hollow_Triangle_Pattern.c) |
 
         *         
        * *       
@@ -318,7 +318,7 @@ A collection of logic-building pattern programs.
 
 | Code |
 | :--- |
-| [View Code](Patterns_code/Hollow_Reverse_Triangle_Pattern.c )|
+| [View Code](Patterns_code/Hollow_Reverse_Triangle_Pattern.c) |
 
     * * * * * 
      *     *   
