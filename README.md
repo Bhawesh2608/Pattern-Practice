@@ -367,3 +367,22 @@ A collection of logic-building pattern programs.
     * * *     
     * *       
     *  
+
+### 28. Print Character 'A'
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Print_A.c) |
+
+      * * * *   
+    *         * 
+    *         * 
+    *         * 
+    * * * * * * 
+    *         * 
+    *         * 
+    *         * 
+    *         * 
+    *         * 
+
+
