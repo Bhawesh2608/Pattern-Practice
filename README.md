@@ -27,17 +27,15 @@ A collection of logic-building pattern programs.
 | :--- |
 | [View Code](Patterns_code/Right_Pascal_Triangle.c) |
 
-```text
-*
-* *
-* * *
-* * * *
-* * * * *
-* * * *
-* * *
-* *
-*
-```
+    *         
+      *       
+    *   *     
+      *   *   
+    *   *   * 
+      *   *   
+    *   *     
+      *       
+    *    
 
 ### 3. Butter Fly Star
 
@@ -354,3 +352,18 @@ A collection of logic-building pattern programs.
     *                 * 
     * * * * * * * * * * 
 
+### 27. Half Diamond Star
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Half_Diamond_Star.c) |
+
+    *         
+    * *       
+    * * *     
+    * * * *   
+    * * * * * 
+    * * * *   
+    * * *     
+    * *       
+    *  
