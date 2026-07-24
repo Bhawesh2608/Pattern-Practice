@@ -418,3 +418,21 @@ A collection of logic-building pattern programs.
     *                  
     *                  
     **********
+
+### 33. Print Character F
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Print_F.c) |
+
+    **********
+    *                  
+    *                  
+    *                  
+    **********
+    *                  
+    *                  
+    *                  
+    *                  
+    *   
+
