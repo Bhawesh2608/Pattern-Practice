@@ -486,3 +486,20 @@ A collection of logic-building pattern programs.
     *     *   
     *       *
 
+### 39. Print Character L
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Print_L.c) |
+
+    *                   
+    *                   
+    *                   
+    *                   
+    *                   
+    *                   
+    *                   
+    *                   
+    *                   
+    * * * * * * * * * *
+
