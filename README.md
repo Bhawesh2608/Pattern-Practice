@@ -470,3 +470,19 @@ A collection of logic-building pattern programs.
             *           
     * * * * * * * * * *
 
+### 38. Print Character K
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Print_K.c) |
+
+    *       * 
+    *     *   
+    *   *     
+    * *       
+    *         
+    * *       
+    *   *     
+    *     *   
+    *       *
+
