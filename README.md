@@ -453,3 +453,20 @@ A collection of logic-building pattern programs.
     *                 * 
     *                 * 
 
+### 36. Print Character I
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Print_I.c) |
+
+    * * * * * * * * * * 
+            *           
+            *           
+            *           
+            *           
+            *           
+            *           
+            *           
+            *           
+    * * * * * * * * * *
+
