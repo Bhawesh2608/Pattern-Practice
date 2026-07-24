@@ -402,4 +402,19 @@ A collection of logic-building pattern programs.
     *                  
     **********
 
+### 32. Print Character Character
 
+| Code |
+| :--- |
+| [View Code](Patterns_code/Print_E.c) |
+
+    **********
+    *                  
+    *                  
+    *                  
+    **********
+    *                  
+    *                  
+    *                  
+    *                  
+    **********
