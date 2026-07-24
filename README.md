@@ -436,3 +436,20 @@ A collection of logic-building pattern programs.
     *                  
     *   
 
+### 35. Print Character H
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Print_H.c) |
+
+    *                 * 
+    *                 * 
+    *                 * 
+    *                 * 
+    *                 * 
+    * * * * * * * * * * 
+    *                 * 
+    *                 * 
+    *                 * 
+    *                 * 
+
