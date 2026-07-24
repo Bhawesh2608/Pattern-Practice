@@ -503,3 +503,21 @@ A collection of logic-building pattern programs.
     *                   
     * * * * * * * * * *
 
+### 41. Print Character N
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Print_N.c) |
+
+    *                 * 
+    * *               * 
+    *   *             * 
+    *     *           * 
+    *       *         * 
+    *         *       * 
+    *           *     * 
+    *             *   * 
+    *               * * 
+    *                 * 
+
+
