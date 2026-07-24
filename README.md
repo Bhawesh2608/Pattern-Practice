@@ -385,4 +385,21 @@ A collection of logic-building pattern programs.
     *         * 
     *         * 
 
+### 30. Print Character C
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Print_C.c) |
+
+    **********
+    *                  
+    *                  
+    *                  
+    *                  
+    *                  
+    *                  
+    *                  
+    *                  
+    **********
+
 
