@@ -521,3 +521,21 @@ A collection of logic-building pattern programs.
     *                 * 
 
 
+### 47. Print Character T
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Print_T.c) |
+
+    * * * * * * * * * * 
+              *         
+              *         
+              *         
+              *         
+              *         
+              *         
+              *         
+              *         
+              *    
+
+
