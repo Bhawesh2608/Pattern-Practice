@@ -572,3 +572,20 @@ A collection of logic-building pattern programs.
             * *        
              * 
 
+### 51. Print Character X 
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Print_X.c) |
+
+    *                 *                   
+      *             *                     
+        *         *                       
+          *     *                         
+            * *                           
+            * *                           
+          *     *                         
+        *         *                       
+      *             *                     
+    *                 * 
+
