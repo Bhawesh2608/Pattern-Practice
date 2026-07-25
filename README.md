@@ -589,3 +589,48 @@ A collection of logic-building pattern programs.
       *             *                     
     *                 * 
 
+
+### 51. Print Character Y 
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Print_Y.c) |
+
+    *                                   * 
+      *                               *   
+        *                           *     
+          *                       *       
+            *                   *         
+              *               *           
+                *           *             
+                  *       *               
+                    *   *                 
+                      *                   
+                      * 
+                      * 
+                      * 
+                      * 
+                      * 
+                      * 
+                      * 
+                      * 
+                      * 
+                      * 
+
+### 52. Print Character Z 
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Print_Z.c) |
+
+    * * * * * * * * * * 
+                    *   
+                  *     
+                *       
+              *         
+            *           
+          *             
+        *               
+      *                 
+    * * * * * * * * * * 
+
