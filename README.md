@@ -538,4 +538,20 @@ A collection of logic-building pattern programs.
               *         
               *    
 
+### 48. Print Character U
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Print_U.c) |
+
+    *                 * 
+    *                 * 
+    *                 * 
+    *                 * 
+    *                 * 
+    *                 * 
+    *                 * 
+    *                 * 
+    *                 * 
+    * * * * * * * * * * 
 
