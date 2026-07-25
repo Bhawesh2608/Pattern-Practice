@@ -555,3 +555,20 @@ A collection of logic-building pattern programs.
     *                 * 
     * * * * * * * * * * 
 
+### 49. Print Character V 
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Print_V.c) |
+
+    *                 *
+     *               * 
+      *             *  
+       *           *   
+        *         *    
+         *       *     
+          *     *      
+           *   *       
+            * *        
+             * 
+
