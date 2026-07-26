@@ -634,3 +634,16 @@ A collection of logic-building pattern programs.
       *                 
     * * * * * * * * * * 
 
+### 53. Stair Case Pattern
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Stair_Case.c) |
+
+    * * 
+    * * 
+    * * * * 
+    * * * * 
+    * * * * * * 
+    * * * * * * 
+
