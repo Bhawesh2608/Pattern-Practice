@@ -647,7 +647,21 @@ A collection of logic-building pattern programs.
     * * * * * * 
     * * * * * * 
 
-### 54. Mirror Stair Case Pattern
+### 54. Reverse Stair Case Pattern
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Reverse_Stair_Case.c) |
+
+    * * * * * * 
+    * * * * * * 
+    * * * * 
+    * * * * 
+    * * 
+    * * 
+
+
+### 55. Mirror Stair Case Pattern
 
 | Code |
 | :--- |
@@ -660,7 +674,7 @@ A collection of logic-building pattern programs.
     * * * * * * 
     * * * * * * 
 
-### 55. Reverse Mirror Stair Case Pattern
+### 56. Reverse Mirror Stair Case Pattern
 
 | Code |
 | :--- |
