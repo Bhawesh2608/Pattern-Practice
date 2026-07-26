@@ -647,3 +647,16 @@ A collection of logic-building pattern programs.
     * * * * * * 
     * * * * * * 
 
+### 54. Mirror Stair Case Pattern
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Mirror_Stair_Case.c) |
+
+        * * 
+        * * 
+      * * * * 
+      * * * * 
+    * * * * * * 
+    * * * * * * 
+
