@@ -262,6 +262,18 @@ A collection of logic-building pattern programs.
     B C D E 
     A B C D E 
 
+### • Inverted Repeating Character Triangle
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Inverted_Repeating_Alphabet_Triangle.c)|
+
+    A A A A A 
+    B B B B 
+    C C C 
+    D D 
+    E 
+
 ### • Square Fill Patterns_code
 
 | Code |
