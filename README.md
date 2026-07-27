@@ -214,6 +214,18 @@ A collection of logic-building pattern programs.
     4  5  6 
     7  8  9 10 
 
+### • Inverted Right-Angled Alphabet Triangle
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Inverted_Alphabet_Triangle.c) |
+
+    A B C D E 
+    B C D E   
+    C D E     
+    D E       
+    E 
+
 ### • Square Fill Patterns_code
 
 | Code |
