@@ -126,6 +126,20 @@ A collection of logic-building pattern programs.
           * * * * * * 
             * * * * * * 
 
+### • Hollow Rhombus
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Hollow_Rhombus.c) |
+          *******
+         *     *
+        *     *
+       *     *
+      *     *
+     *     *
+    *******
+
+
 ### • Diagonal Star Patterns 
 
 | Code |
