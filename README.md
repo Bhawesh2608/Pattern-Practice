@@ -250,6 +250,17 @@ A collection of logic-building pattern programs.
     A B C D   
     A B C D E 
 
+### • Reverse-Starting Right-Angled Alphabet Triangle
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Decreasing_Start_Alphabet_Triangle.c) |
+
+    E 
+    D E 
+    C D E 
+    B C D E 
+    A B C D E 
 
 ### • Square Fill Patterns_code
 
