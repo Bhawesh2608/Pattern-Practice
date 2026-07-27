@@ -4,7 +4,7 @@ A collection of logic-building pattern programs.
 
 ---
 
-### 1. Pascal Triangle
+### • Pascal Triangle
 
 | Code |
 | :--- |
@@ -21,7 +21,7 @@ A collection of logic-building pattern programs.
   1   7  21  35  35  21   7   1
 ```
 
-### 2. Right Pascal Triangle
+### • Right Pascal Triangle
 
 | Code |
 | :--- |
@@ -37,7 +37,7 @@ A collection of logic-building pattern programs.
       *       
     *    
 
-### 3. Butter Fly Star
+### • Butter Fly Star
 
 | Code |
 | :--- |
@@ -51,7 +51,7 @@ A collection of logic-building pattern programs.
       *       *   
     *           * 
 
-### 4. Diamond Pattern
+### • Diamond Pattern
 
 | Code |
 | :--- |
@@ -67,7 +67,7 @@ A collection of logic-building pattern programs.
        * *       
         *       
 
-### 5. Hollow Diamond Pyramid
+### • Hollow Diamond Pyramid
 
 | Code |
 | :--- |
@@ -83,7 +83,7 @@ A collection of logic-building pattern programs.
        * *       
         *        
 
-### 6. PalinDrome Triangular 
+### • PalinDrome Triangular 
 
 | Code |
 | :--- |
@@ -96,7 +96,7 @@ A collection of logic-building pattern programs.
       5 4 3 2 1 2 3 4 5   
     6 5 4 3 2 1 2 3 4 5 6 
 
-### 7. Rhombus 
+### • Rhombus 
 
 | Code |
 | :--- |
@@ -108,7 +108,21 @@ A collection of logic-building pattern programs.
           * * * * * * 
             * * * * * * 
 
-### 8. Zero-One 
+### • Diagonal Star Patterns 
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Diagonal_Star_Pattern.c) |
+
+    * * * * * * * 
+    * *       * * 
+    *   *   *   * 
+    *     *     * 
+    *   *   *   * 
+    * *       * * 
+    * * * * * * * 
+
+### • Zero-One 
 
 | Code |
 | :--- |
@@ -121,7 +135,7 @@ A collection of logic-building pattern programs.
     1 0 1 0 1   
     0 1 0 1 0 1 
 
-### 9. Number Triangular
+### • Number Triangular
 
 | Code |
 | :--- |
@@ -133,7 +147,7 @@ A collection of logic-building pattern programs.
      4 4 4 4   
     5 5 5 5 5
 
-### 10. Number Increasing Pyramid
+### • Number Increasing Pyramid
 
 | Code |
 | :--- |
@@ -145,7 +159,7 @@ A collection of logic-building pattern programs.
     1 2 3 4 
     1 2 3 4 5 
 
-### 11. Number Increasing Reverse Pyramid
+### • Number Increasing Reverse Pyramid
 
 | Code |
 | :--- |
@@ -157,7 +171,7 @@ A collection of logic-building pattern programs.
     1 2       
     1  
 
-### 12. Number Changing Reverse Pyramid
+### • Number Changing Reverse Pyramid
 
 | Code |
 | :--- |
@@ -168,7 +182,7 @@ A collection of logic-building pattern programs.
     4  5  6 
     7  8  9 10 
 
-### 13. Square Fill Patterns_code
+### • Square Fill Patterns_code
 
 | Code |
 | :--- |
@@ -180,7 +194,7 @@ A collection of logic-building pattern programs.
     * * * * * 
     * * * * * 
 
-### 14. Square Hollow Pattern
+### • Square Hollow Pattern
 
 | Code |
 | :--- |
@@ -192,7 +206,7 @@ A collection of logic-building pattern programs.
     *       * 
     * * * * * 
 
-### 15. Right Half Pyramid
+### • Right Half Pyramid
 
 | Code |
 | :--- |
@@ -204,7 +218,7 @@ A collection of logic-building pattern programs.
     * * * *   
     * * * * * 
 
-### 16. Right Half Reverse Pyramid
+### • Right Half Reverse Pyramid
 
 | Code |
 | :--- |
@@ -216,7 +230,7 @@ A collection of logic-building pattern programs.
     * *       
     * 
 
-### 17. Left Half Pyramid
+### • Left Half Pyramid
 
 | Code |
 | :--- |
@@ -228,7 +242,7 @@ A collection of logic-building pattern programs.
       * * * * 
     * * * * * 
 
-### 18. Left_Half_Reverse_Pyramid
+### • Left_Half_Reverse_Pyramid
 
 | Code |
 | :--- |
@@ -240,7 +254,7 @@ A collection of logic-building pattern programs.
           * * 
             * 
 
-### 19. k Pattern
+### • k Pattern
 
 | Code |
 | :--- |
@@ -256,7 +270,7 @@ A collection of logic-building pattern programs.
     * * * *   
     * * * * *  
 
-### 20. Mirror Image Triangle Pattern
+### • Mirror Image Triangle Pattern
 
 | Code |
 | :--- |
@@ -272,7 +286,7 @@ A collection of logic-building pattern programs.
      2 3 4 5   
     1 2 3 4 5 
 
-### 21. Hollow Hourglass Pattern
+### • Hollow Hourglass Pattern
 
 | Code |
 | :--- |
@@ -288,7 +302,7 @@ A collection of logic-building pattern programs.
      *     * 
     * * * * *
 
-### 22. Triangle Star Pattern
+### • Triangle Star Pattern
 
 | Code |
 | :--- |
@@ -300,7 +314,7 @@ A collection of logic-building pattern programs.
      * * * *   
     * * * * * 
 
-### 23. Hollow Triangle Pattern
+### • Hollow Triangle Pattern
 
 | Code |
 | :--- |
@@ -312,7 +326,7 @@ A collection of logic-building pattern programs.
      *     *   
     * * * * * 
 
-### 24. Hollow Reverse Triangle Pattern
+### • Hollow Reverse Triangle Pattern
 
 | Code |
 | :--- |
@@ -324,7 +338,7 @@ A collection of logic-building pattern programs.
        * *       
         *         
 
-### 25. Top Half: Inverted Right-Angled Alphabet Triangle
+### • Top Half: Inverted Right-Angled Alphabet Triangle
 
 | Code |
 | :--- |
@@ -340,7 +354,7 @@ A collection of logic-building pattern programs.
     A     B   
     A B C D E
 
-### 26. Hollow Rectangel 
+### • Hollow Rectangel 
 
 | Code |
 | :--- |
@@ -352,7 +366,7 @@ A collection of logic-building pattern programs.
     *                 * 
     * * * * * * * * * * 
 
-### 27. Half Diamond Star
+### • Half Diamond Star
 
 | Code |
 | :--- |
@@ -368,7 +382,7 @@ A collection of logic-building pattern programs.
     * *       
     *  
 
-### 28. Print Character 'A'
+### • Print Character 'A'
 
 | Code |
 | :--- |
@@ -385,7 +399,7 @@ A collection of logic-building pattern programs.
     *         * 
     *         * 
 
-### 30. Print Character C
+### • Print Character C
 
 | Code |
 | :--- |
@@ -402,7 +416,7 @@ A collection of logic-building pattern programs.
     *                  
     **********
 
-### 32. Print Character Character
+### • Print Character Character
 
 | Code |
 | :--- |
@@ -419,7 +433,7 @@ A collection of logic-building pattern programs.
     *                  
     **********
 
-### 33. Print Character F
+### • Print Character F
 
 | Code |
 | :--- |
@@ -436,7 +450,7 @@ A collection of logic-building pattern programs.
     *                  
     *   
 
-### 35. Print Character H
+### • Print Character H
 
 | Code |
 | :--- |
@@ -453,7 +467,7 @@ A collection of logic-building pattern programs.
     *                 * 
     *                 * 
 
-### 36. Print Character I
+### • Print Character I
 
 | Code |
 | :--- |
@@ -470,7 +484,7 @@ A collection of logic-building pattern programs.
             *           
     * * * * * * * * * *
 
-### 38. Print Character K
+### • Print Character K
 
 | Code |
 | :--- |
@@ -486,7 +500,7 @@ A collection of logic-building pattern programs.
     *     *   
     *       *
 
-### 39. Print Character L
+### • Print Character L
 
 | Code |
 | :--- |
@@ -503,7 +517,7 @@ A collection of logic-building pattern programs.
     *                   
     * * * * * * * * * *
 
-### 41. Print Character N
+### • Print Character N
 
 | Code |
 | :--- |
@@ -521,7 +535,7 @@ A collection of logic-building pattern programs.
     *                 * 
 
 
-### 47. Print Character T
+### • Print Character T
 
 | Code |
 | :--- |
@@ -538,7 +552,7 @@ A collection of logic-building pattern programs.
               *         
               *    
 
-### 48. Print Character U
+### • Print Character U
 
 | Code |
 | :--- |
@@ -555,7 +569,7 @@ A collection of logic-building pattern programs.
     *                 * 
     * * * * * * * * * * 
 
-### 49. Print Character V 
+### • Print Character V 
 
 | Code |
 | :--- |
@@ -572,7 +586,7 @@ A collection of logic-building pattern programs.
             * *        
              * 
 
-### 51. Print Character X 
+### • Print Character X 
 
 | Code |
 | :--- |
@@ -590,7 +604,7 @@ A collection of logic-building pattern programs.
     *                 * 
 
 
-### 51. Print Character Y 
+### • Print Character Y 
 
 | Code |
 | :--- |
@@ -617,7 +631,7 @@ A collection of logic-building pattern programs.
                       * 
                       * 
 
-### 52. Print Character Z 
+### • Print Character Z 
 
 | Code |
 | :--- |
@@ -634,7 +648,7 @@ A collection of logic-building pattern programs.
       *                 
     * * * * * * * * * * 
 
-### 53. Stair Case Pattern
+### • Stair Case Pattern
 
 | Code |
 | :--- |
@@ -647,7 +661,7 @@ A collection of logic-building pattern programs.
     * * * * * * 
     * * * * * * 
 
-### 54. Reverse Stair Case Pattern
+### • Reverse Stair Case Pattern
 
 | Code |
 | :--- |
@@ -661,7 +675,7 @@ A collection of logic-building pattern programs.
     * * 
 
 
-### 55. Mirror Stair Case Pattern
+### • Mirror Stair Case Pattern
 
 | Code |
 | :--- |
@@ -674,7 +688,7 @@ A collection of logic-building pattern programs.
     * * * * * * 
     * * * * * * 
 
-### 56. Reverse Mirror Stair Case Pattern
+### • Reverse Mirror Stair Case Pattern
 
 | Code |
 | :--- |
@@ -687,7 +701,7 @@ A collection of logic-building pattern programs.
         * * 
         * * 
 
-### 57. Swastika Pattern
+### • Swastika Pattern
 
 | Code |
 | :--- |
