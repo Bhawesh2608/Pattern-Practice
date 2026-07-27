@@ -687,3 +687,21 @@ A collection of logic-building pattern programs.
         * * 
         * * 
 
+### 57. Swastika Pattern
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Swastika.c) |
+
+    *         * * * * * * 
+    *         *           
+    *         *           
+    *         *           
+    *         *           
+    * * * * * * * * * * * 
+              *         * 
+              *         * 
+              *         * 
+              *         * 
+    * * * * * *         * 
+
