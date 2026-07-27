@@ -83,6 +83,24 @@ A collection of logic-building pattern programs.
        * *       
         *        
 
+### • Hollow Diamond Star Pattern with a Center Cross
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Hollow_Diamond_Star_Center_Cross.c) |
+
+              *           
+            * * *         
+          *   *   *       
+        *     *     *     
+      *       *       *   
+    * * * * * * * * * * * 
+      *       *       *   
+        *     *     *     
+          *   *   *       
+            * * *         
+              *     
+
 ### • PalinDrome Triangular 
 
 | Code |
