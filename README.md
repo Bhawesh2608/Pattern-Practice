@@ -238,6 +238,18 @@ A collection of logic-building pattern programs.
     B B       
     A   
 
+### • Right-Angled Alphabet Triangle
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Increasing_Alphabet_Triangle.c) |
+
+    A         
+    A B       
+    A B C     
+    A B C D   
+    A B C D E 
+
 
 ### • Square Fill Patterns_code
 
