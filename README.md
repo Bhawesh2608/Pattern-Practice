@@ -118,6 +118,27 @@ A collection of logic-building pattern programs.
             * * *         
               *     
 
+
+### • Circle Star pattern
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Circle.c)|
+
+           * * * * *         
+        * *           * *     
+      * *               * *   
+      *                   *   
+    *                       * 
+    *                       * 
+    *                       * 
+    *                       * 
+    *                       * 
+      *                   *   
+      * *               * *   
+        * *           * *     
+            * * * * *  
+
 ### • PalinDrome Triangular 
 
 | Code |
