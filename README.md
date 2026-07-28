@@ -76,16 +76,16 @@ A collection of logic-building pattern programs.
 | [View Code](Patterns_code/Inverted_Butterfly_Pattern.c)|
 
 
-  * * * * * * * * * * 
-  * * * *     * * * * 
-  * * *         * * * 
-  * *             * * 
-  *                 * 
-  *                 * 
-  * *             * * 
-  * * *         * * * 
-  * * * *     * * * * 
-  * * * * * * * * * * 
+    * * * * * * * * * * 
+    * * * *     * * * * 
+    * * *         * * * 
+    * *             * * 
+    *                 * 
+    *                 * 
+    * *             * * 
+    * * *         * * * 
+    * * * *     * * * * 
+    * * * * * * * * * * 
 
 ### • Diamond Pattern
 
@@ -515,6 +515,21 @@ A collection of logic-building pattern programs.
       *   *     
        * *       
         *         
+
+### • Inverted Half Pyramid with Descending Numbers
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Inverted_Half_Pyramid_with_Descending_Numbers.c) |
+
+    7 6 5 4 3 2 1 0 
+    6 5 4 3 2 1 0   
+    5 4 3 2 1 0     
+    4 3 2 1 0       
+    3 2 1 0         
+    2 1 0           
+    1 0             
+    0
 
 ### • Top Half: Inverted Right-Angled Alphabet Triangle
 
