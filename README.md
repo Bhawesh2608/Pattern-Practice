@@ -158,7 +158,7 @@ A collection of logic-building pattern programs.
 
 | Code |
 | :--- |
-| [View Code](Patterns_code/Zero-One.c) |
+| [View Code](Patterns_code/Zero-one.c) |
 
 
     1           
