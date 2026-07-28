@@ -160,6 +160,7 @@ A collection of logic-building pattern programs.
 | :--- |
 | [View Code](Patterns_code/Zero-One.c) |
 
+
     1           
     0 1         
     1 0 1       
