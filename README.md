@@ -68,6 +68,25 @@ A collection of logic-building pattern programs.
     * *           * * 
     *               * 
 
+
+### • Inverted Butter Fly Star
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Inverted_Butterfly_Pattern.c)|
+
+
+    * * * * * * * * * * 
+    * * * *     * * * * 
+    * * *         * * * 
+    * *             * * 
+    *                 * 
+    *                 * 
+    * *             * * 
+    * * *         * * * 
+    * * * *     * * * * 
+    * * * * * * * * * * 
+
 ### • Diamond Pattern
 
 | Code |
