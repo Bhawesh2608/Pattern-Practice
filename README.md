@@ -51,6 +51,23 @@ A collection of logic-building pattern programs.
       *       *   
     *           * 
 
+
+### • Butter Fly Star
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/ButterFly_Star_1.c)|
+
+    *               * 
+    * *           * * 
+    * * *       * * * 
+    * * * *   * * * * 
+    * * * * * * * * * 
+    * * * *   * * * * 
+    * * *       * * * 
+    * *           * * 
+    *               * 
+
 ### • Diamond Pattern
 
 | Code |
