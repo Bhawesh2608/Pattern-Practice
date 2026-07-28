@@ -76,16 +76,16 @@ A collection of logic-building pattern programs.
 | [View Code](Patterns_code/Inverted_Butterfly_Pattern.c)|
 
 
-    * * * * * * * * * * 
-    * * * *     * * * * 
-    * * *         * * * 
-    * *             * * 
-    *                 * 
-    *                 * 
-    * *             * * 
-    * * *         * * * 
-    * * * *     * * * * 
-    * * * * * * * * * * 
+  * * * * * * * * * * 
+  * * * *     * * * * 
+  * * *         * * * 
+  * *             * * 
+  *                 * 
+  *                 * 
+  * *             * * 
+  * * *         * * * 
+  * * * *     * * * * 
+  * * * * * * * * * * 
 
 ### • Diamond Pattern
 
@@ -448,11 +448,11 @@ A collection of logic-building pattern programs.
      2 3 4 5   
     1 2 3 4 5 
 
-### • Hollow Hourglass Pattern
+### • hollow hourglass pattern
 
-| Code |
+| code |
 | :--- |
-| [View Code](Patterns_code/Hollow_Hourglass_Pattern.c) |
+| [view code](patterns_code/hollow_hourglass_pattern.c) |
 
     * * * * * 
      *     * 
@@ -463,6 +463,22 @@ A collection of logic-building pattern programs.
       *   * 
      *     * 
     * * * * *
+
+
+### • Hourglass with X pattern
+
+| code |
+| :--- |
+| [view code](patterns_code/Hourglass_with_X.c) |
+
+    \******/
+    *\****/*
+    **\**/**
+    ***\/***
+    ***/\***
+    **/**\**
+    */****\*
+    /******\
 
 ### • Triangle Star Pattern
 
