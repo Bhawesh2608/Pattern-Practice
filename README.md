@@ -43,6 +43,16 @@ A collection of logic-building pattern programs.
 | :--- |
 | [View Code](Patterns_code/Arrow.c) |
 
+    *        
+     **      
+      ***    
+       ****  
+        *****
+       ****  
+      ***    
+     **      
+    *
+
 ### • Butter Fly Star
 
 | Code |
@@ -176,6 +186,24 @@ A collection of logic-building pattern programs.
         4 3 2 1 2 3 4     
       5 4 3 2 1 2 3 4 5   
     6 5 4 3 2 1 2 3 4 5 6 
+
+
+### • Triangle Pyramid With Numbers
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Triangle_pyramid_with_Numbers.c) |
+
+             1                   
+            1 2                 
+           1 2 3               
+          1 2 3 4             
+         1 2 3 4 5           
+        1 2 3 4 5 6         
+       1 2 3 4 5 6 7       
+      1 2 3 4 5 6 7 8     
+     1 2 3 4 5 6 7 8 9   
+    1 2 3 4 5 6 7 8 9 10 
 
 ### • Rhombus 
 
