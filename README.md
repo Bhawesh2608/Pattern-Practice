@@ -103,6 +103,22 @@ A collection of logic-building pattern programs.
     * * * *     * * * * 
     * * * * * * * * * * 
 
+### • Number With Star Pattern
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Numbe_With_Star_Pattern.c)
+
+        1    
+       1*2   
+      1*2*3  
+     1*2*3*4 
+    1*2*3*4*5
+     1*2*3*4 
+      1*2*3  
+       1*2   
+        1   
+
 ### • Diamond Pattern
 
 | Code |
