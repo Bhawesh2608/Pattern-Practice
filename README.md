@@ -219,6 +219,20 @@ A collection of logic-building pattern programs.
      B         B   
     A           A 
 
+### • V Pattern
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/V_Pattern.c) |
+
+     G           G 
+      F         F   
+       E       E     
+        D     D       
+         C   C         
+          B B           
+           A    
+
 ### • Rhombus 
 
 | Code |
