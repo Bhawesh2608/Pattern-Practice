@@ -37,6 +37,12 @@ A collection of logic-building pattern programs.
       *       
     *    
 
+### • Arrow Pattern
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Arrow.c) |
+
 ### • Butter Fly Star
 
 | Code |
