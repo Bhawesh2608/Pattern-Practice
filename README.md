@@ -205,6 +205,20 @@ A collection of logic-building pattern programs.
      1 2 3 4 5 6 7 8 9   
     1 2 3 4 5 6 7 8 9 10 
 
+### • Inverted-V Pattern
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Inverted_V_Pattern.c) |
+
+          G             
+         F F           
+        E   E         
+       D     D       
+      C       C     
+     B         B   
+    A           A 
+
 ### • Rhombus 
 
 | Code |
