@@ -843,6 +843,24 @@ A collection of logic-building pattern programs.
     *                   
     * * * * * * * * * *
 
+### • Print Character M
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Print_M.c) |
+
+    *                    *
+    **                  **
+    * *                * *
+    *  *              *  *
+    *   *            *   *
+    *    *          *    *
+    *     *        *     *
+    *      *      *      *
+    *       *    *       *
+    *        *  *        *
+    *         **         *
+
 ### • Print Character N
 
 | Code |
