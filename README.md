@@ -984,6 +984,22 @@ A collection of logic-building pattern programs.
             * *        
              * 
 
+### • Print Character W
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Print_W.c) |
+
+    *       *       *
+    *      * *      *
+    *     *   *     *
+    *    *     *    *
+    *   *       *   *
+    *  *         *  *
+    * *           * *
+    **             **
+    *               *
+
 ### • Print Character X 
 
 | Code |
