@@ -791,6 +791,25 @@ A collection of logic-building pattern programs.
             *           
     * * * * * * * * * *
 
+### • Print Character J
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Print_J.c) |
+
+    * * * * * * * * * * * 
+              *           
+              *           
+              *           
+              *           
+    *         *           
+    *         *           
+    *         *           
+    *         *           
+    *         *           
+    * * * * * *           
+
+
 ### • Print Character K
 
 | Code |
