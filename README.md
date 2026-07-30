@@ -440,6 +440,24 @@ A collection of logic-building pattern programs.
     D C B A 
     E D C B A 
 
+### • Inner reducing pattern printing
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Inner_reducing_pattern_printing.c) |
+
+    6 6 6 6 6 6 6 6 6 6 6 
+    6 5 5 5 5 5 5 5 5 5 6 
+    6 5 4 4 4 4 4 4 4 5 6 
+    6 5 4 3 3 3 3 3 4 5 6 
+    6 5 4 3 2 2 2 3 4 5 6 
+    6 5 4 3 2 1 2 3 4 5 6 
+    6 5 4 3 2 2 2 3 4 5 6 
+    6 5 4 3 3 3 3 3 4 5 6 
+    6 5 4 4 4 4 4 4 4 5 6 
+    6 5 5 5 5 5 5 5 5 5 6 
+    6 6 6 6 6 6 6 6 6 6 6 
+
 ### • Square Fill Patterns_code
 
 | Code |
