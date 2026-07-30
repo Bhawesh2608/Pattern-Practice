@@ -858,6 +858,24 @@ A collection of logic-building pattern programs.
     * 
     * 
 
+### • Print Character R
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Print_R.c) |
+
+    * * * * * 
+    *       * 
+    *       * 
+    *       * 
+    * * * * * 
+    *         
+    * *       
+    *   *     
+    *     *   
+    *       * 
+
+
 ### • Print Character S
 
 | Code |
