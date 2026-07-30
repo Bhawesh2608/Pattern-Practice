@@ -685,7 +685,7 @@ A collection of logic-building pattern programs.
     * * * *   
     * * * * * 
     * * * *   
-    * * *     
+    * * *     anly for both odd and even
     * *       
     *  
 
@@ -841,6 +841,25 @@ A collection of logic-building pattern programs.
     *               * * 
     *                 * 
 
+### • Print Character S
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Print_S.c) |
+
+    * * * * * * * * * * * * * 
+    *                         
+    *                         
+    *                         
+    *                         
+    *                         
+    * * * * * * * * * * * * * 
+                            * 
+                            * 
+                            * 
+                            * 
+                            * 
+    * * * * * * * * * * * * * 
 
 ### • Print Character T
 
