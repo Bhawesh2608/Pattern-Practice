@@ -119,6 +119,24 @@ A collection of logic-building pattern programs.
        1*2   
         1   
 
+### • Number With Diamond Pattern
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Number_With_Diamond_Pattern.c)
+
+         1     
+        212    
+       32123   
+      4321234  
+     543212345 
+    65432123456
+     543212345 
+      4321234  
+       32123   
+        212    
+         1
+
 ### • Diamond Pattern
 
 | Code |
