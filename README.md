@@ -792,6 +792,23 @@ A collection of logic-building pattern programs.
     *                  
     *                  
     *   
+### • Print Character G
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Print_G.c) |
+
+    ***********
+    *          
+    *          
+    *          
+    *          
+    *    ******
+    *         *
+    *         *
+    *         *
+    *         *
+    ***********
 
 ### • Print Character H
 
@@ -948,6 +965,25 @@ A collection of logic-building pattern programs.
     * 
     * 
     * 
+
+### • Print Character Q
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Print_Q.c) |
+
+
+       ********  
+      *        * 
+      *        * 
+      *        * 
+      *   *    * 
+      *    *   * 
+      *     *  * 
+      *      * * 
+      *       ** 
+       ********* 
+                *
 
 ### • Print Character R
 
