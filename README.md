@@ -706,6 +706,21 @@ A collection of logic-building pattern programs.
     *         * 
     *         * 
 
+### • Print Character D
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Print_D.c) |
+
+    ****** 
+    *     *
+    *     *
+    *     *
+    *     *
+    *     *
+    ****** 
+
+
 ### • Print Character C
 
 | Code |
