@@ -914,6 +914,24 @@ A collection of logic-building pattern programs.
     *               * * 
     *                 * 
 
+### • Print Character O
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Print_O.c) |
+
+     ********* 
+    *         *
+    *         *
+    *         *
+    *         *
+    *         *
+    *         *
+    *         *
+    *         *
+    *         *
+     ********* 
+
 ### • Print Character P
 
 | Code |
