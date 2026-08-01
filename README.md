@@ -284,6 +284,7 @@ A collection of logic-building pattern programs.
 | Code |
 | :--- |
 | [View Code](Patterns_code/Hollow_Rhombus.c) |
+
           *******
          *     *
         *     *
@@ -380,6 +381,19 @@ A collection of logic-building pattern programs.
       10*9*8*7
       11*12*13*14*15
       21*20*19*18*17*16
+
+### • Bridge Patterns
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Bridge_pattern.c) |
+
+    ABCDEFEDCBA
+    ABCDE EDCBA
+    ABCD   DCBA
+    ABC     CBA
+    AB       BA
+    A         A
 
 ### • Inverted Right-Angled Alphabet Triangle
 
