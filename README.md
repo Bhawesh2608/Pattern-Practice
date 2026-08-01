@@ -368,6 +368,19 @@ A collection of logic-building pattern programs.
     4  5  6 
     7  8  9 10 
 
+### • Snake Pattern Triangle
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Snake_Pattern_Triangle.c) |
+
+      1
+      3*2
+      4*5*6
+      10*9*8*7
+      11*12*13*14*15
+      21*20*19*18*17*16
+
 ### • Inverted Right-Angled Alphabet Triangle
 
 | Code |
