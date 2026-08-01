@@ -643,6 +643,16 @@ A collection of logic-building pattern programs.
        * *       
         *         
 
+### • Trapezium Pattern
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Trapezium_Pattern.c) |
+
+    1*2*3*10*11*12
+      4*5*8*9
+        6*7
+
 ### • Inverted Half Pyramid with Descending Numbers
 
 | Code |
