@@ -382,6 +382,28 @@ A collection of logic-building pattern programs.
       11*12*13*14*15
       21*20*19*18*17*16
 
+### • Sierpinski Triangle
+
+| Code |
+| :--- |
+| [View Code](Patterns_code/Sierpinski_Triangle.c) |
+                   * 
+                  * * 
+                 *   * 
+                * * * * 
+               *       * 
+              * *     * * 
+             *   *   *   * 
+            * * * * * * * * 
+           *               * 
+          * *             * * 
+         *   *           *   * 
+        * * * *         * * * * 
+       *       *       *       * 
+      * *     * *     * *     * * 
+     *   *   *   *   *   *   *   * 
+    * * * * * * * * * * * * * * * * 
+
 ### • Bridge Patterns
 
 | Code |
