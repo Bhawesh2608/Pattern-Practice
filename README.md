@@ -1105,16 +1105,16 @@ A collection of logic-building pattern programs.
 | :--- |
 | [View Code](Patterns_code/Print_U.c) |
 
-    *                 * 
-    *                 * 
-    *                 * 
-    *                 * 
-    *                 * 
-    *                 * 
-    *                 * 
-    *                 * 
-    *                 * 
-    * * * * * * * * * * 
+    *        *
+    *        *
+    *        *
+    *        *
+    *        *
+    *        *
+    *        *
+    *        *
+    *        *
+     ******** 
 
 ### • Print Character V 
 
