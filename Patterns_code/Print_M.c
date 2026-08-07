@@ -7,14 +7,9 @@ int main() {
 
   for (int i = 1; i <= n; i++) {
     for (int j = 1; j <= n; j++) {
-      if (j == 1 || i == j) {
+      if (j == 1 || j == n) {
         printf("*");
-      } else {
-        printf(" ");
-      }
-    }
-    for (int j = n; j >= 1; j--) {
-      if (j == 1 || i == j) {
+      } else if ((i == j && i < n / 2 + 1) || (i + j == n && i < n / 2 + 1)) {
         printf("*");
       } else {
         printf(" ");

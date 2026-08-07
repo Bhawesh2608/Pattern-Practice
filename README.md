@@ -961,17 +961,16 @@ A collection of logic-building pattern programs.
 | :--- |
 | [View Code](Patterns_code/Print_M.c) |
 
-    *                    *
-    **                  **
-    * *                * *
-    *  *              *  *
-    *   *            *   *
-    *    *          *    *
-    *     *        *     *
-    *      *      *      *
-    *       *    *       *
-    *        *  *        *
-    *         **         *
+    *       **
+    **     * *
+    * *   *  *
+    *  * *   *
+    *   *    *
+    *        *
+    *        *
+    *        *
+    *        *
+    *        *
 
 ### • Print Character N
 
