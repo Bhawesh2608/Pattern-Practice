@@ -928,15 +928,16 @@ A collection of logic-building pattern programs.
 | :--- |
 | [View Code](Patterns_code/Print_K.c) |
 
-    *       * 
-    *     *   
+    *    *    
     *   *     
+    *  *      
     * *       
+    **        
     *         
+    **        
     * *       
-    *   *     
-    *     *   
-    *       *
+    *  *      
+    *   *  
 
 ### • Print Character L
 
@@ -944,16 +945,16 @@ A collection of logic-building pattern programs.
 | :--- |
 | [View Code](Patterns_code/Print_L.c) |
 
-    *                   
-    *                   
-    *                   
-    *                   
-    *                   
-    *                   
-    *                   
-    *                   
-    *                   
-    * * * * * * * * * *
+    *         
+    *         
+    *         
+    *         
+    *         
+    *         
+    *         
+    *         
+    *         
+    **********
 
 ### • Print Character M
 
@@ -978,16 +979,16 @@ A collection of logic-building pattern programs.
 | :--- |
 | [View Code](Patterns_code/Print_N.c) |
 
-    *                 * 
-    * *               * 
-    *   *             * 
-    *     *           * 
-    *       *         * 
-    *         *       * 
-    *           *     * 
-    *             *   * 
-    *               * * 
-    *                 * 
+    *        *
+    **       *
+    * *      *
+    *  *     *
+    *   *    *
+    *    *   *
+    *     *  *
+    *      * *
+    *       **
+    *        *
 
 ### • Print Character O
 

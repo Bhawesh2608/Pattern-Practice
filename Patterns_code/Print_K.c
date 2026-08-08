@@ -1,34 +1,25 @@
 #include <stdio.h>
 
-int main()
-{
-	int n;
-	printf("enter n ");
-	scanf("%d",&n);
+int main() {
+    int n;
+    printf("enter n ");
+    scanf("%d", &n);
 
-	for(int i=n; i>=1; i--) {
-		for(int j=1; j<=n; j++) {
-			if(j==i ||j==1) {
-				printf("* ");
-			}
-			else
-			{
-				printf("  ");
-			}
-		}
-		printf("\n");
-	}
-	for(int i=2; i<=n; i++) {
-		for(int j=1; j<=n; j++) {
-			if(j==i ||j==1) {
-				printf("* ");
-			}
-			else
-			{
-				printf("  ");
-			}
-		}
-		printf("\n");
-	}
-	return 0;
+    for(int i = n; i >= 1; i--) {
+        int mid = n / 2 + 1;
+        int dist = i - mid;
+        if(dist < 0) {
+            dist = -dist;
+        }
+        for(int j = 1; j <= n; j++) {
+            if(j == 1 || j == dist + 1) {
+                printf("*");
+            }
+            else {
+                printf(" ");
+            }
+        }
+        printf("\n");
+    }
+    return 0;
 }
