@@ -875,16 +875,17 @@ A collection of logic-building pattern programs.
 | :--- |
 | [View Code](Patterns_code/Print_H.c) |
 
-    *                 * 
-    *                 * 
-    *                 * 
-    *                 * 
-    *                 * 
-    * * * * * * * * * * 
-    *                 * 
-    *                 * 
-    *                 * 
-    *                 * 
+    *         *
+    *         *
+    *         *
+    *         *
+    *         *
+    ***********
+    *         *
+    *         *
+    *         *
+    *         *
+    *         *
 
 ### • Print Character I
 
@@ -892,16 +893,17 @@ A collection of logic-building pattern programs.
 | :--- |
 | [View Code](Patterns_code/Print_I.c) |
 
-    * * * * * * * * * * 
-            *           
-            *           
-            *           
-            *           
-            *           
-            *           
-            *           
-            *           
-    * * * * * * * * * *
+    ***********
+         *     
+         *     
+         *     
+         *     
+         *     
+         *     
+         *     
+         *     
+         *     
+    ***********
 
 ### • Print Character J
 
