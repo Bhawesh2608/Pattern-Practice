@@ -9,11 +9,14 @@ int main() {
 
   for (int i = 1; i <= n; i++) {
     for (int j = 1; j <= n; j++) {
-      if (i == 1 || i == n || i == mid || (j == 1 && i <= mid) ||
-          (j == n && i >= mid)) {
-        printf("* ");
+      if (i == 1 || i == n) {
+        printf("*");
+      } else if ((j == 1 && i < n / 2 + 1) || (j == n && i > n / 2 + 1)) {
+        printf("*");
+      } else if (i == n / 2 + 1) {
+        printf("*");
       } else {
-        printf("  ");
+        printf(" ");
       }
     }
     printf("\n");

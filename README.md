@@ -1067,19 +1067,17 @@ A collection of logic-building pattern programs.
 | :--- |
 | [View Code](Patterns_code/Print_S.c) |
 
-    * * * * * * * * * * * * * 
-    *                         
-    *                         
-    *                         
-    *                         
-    *                         
-    * * * * * * * * * * * * * 
-                            * 
-                            * 
-                            * 
-                            * 
-                            * 
-    * * * * * * * * * * * * * 
+    ***********
+    *          
+    *          
+    *          
+    *          
+    ***********
+              *
+              *
+              *
+              *
+    ***********
 
 ### • Print Character T
 
