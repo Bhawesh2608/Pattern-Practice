@@ -962,11 +962,11 @@ A collection of logic-building pattern programs.
 | :--- |
 | [View Code](Patterns_code/Print_M.c) |
 
-    *       **
-    **     * *
-    * *   *  *
-    *  * *   *
-    *   *    *
+    *        *
+    **      **
+    * *    * *
+    *  *  *  *
+    *   **   *
     *        *
     *        *
     *        *
@@ -1050,16 +1050,16 @@ A collection of logic-building pattern programs.
 | :--- |
 | [View Code](Patterns_code/Print_R.c) |
 
-    * * * * * 
-    *       * 
-    *       * 
-    *       * 
-    * * * * * 
-    *         
-    * *       
-    *   *     
+    ********* 
+    *        *
+    *        *
+    *        *
+    *        *
+    ********* 
     *     *   
+    *      *  
     *       * 
+    *        *
 
 
 ### • Print Character S
