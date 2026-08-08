@@ -1086,16 +1086,16 @@ A collection of logic-building pattern programs.
 | :--- |
 | [View Code](Patterns_code/Print_T.c) |
 
-    * * * * * * * * * * 
-              *         
-              *         
-              *         
-              *         
-              *         
-              *         
-              *         
-              *         
-              *    
+    **********
+        *    
+        *    
+        *    
+        *    
+        *    
+        *    
+        *    
+        *    
+        * 
 
 ### • Print Character U
 
@@ -1153,16 +1153,17 @@ A collection of logic-building pattern programs.
 | :--- |
 | [View Code](Patterns_code/Print_X.c) |
 
-    *                 *                   
-      *             *                     
-        *         *                       
-          *     *                         
-            * *                           
-            * *                           
-          *     *                         
-        *         *                       
-      *             *                     
-    *                 * 
+
+    *        *
+     *      * 
+      *    *  
+       *  *   
+        **    
+        **    
+       *  *   
+      *    *  
+     *      * 
+    *        *
 
 
 ### • Print Character Y 
@@ -1171,26 +1172,18 @@ A collection of logic-building pattern programs.
 | :--- |
 | [View Code](Patterns_code/Print_Y.c) |
 
-    *                                   * 
-      *                               *   
-        *                           *     
-          *                       *       
-            *                   *         
-              *               *           
-                *           *             
-                  *       *               
-                    *   *                 
-                      *                   
-                      * 
-                      * 
-                      * 
-                      * 
-                      * 
-                      * 
-                      * 
-                      * 
-                      * 
-                      * 
+
+    *         *
+     *       * 
+      *     *  
+       *   *   
+        * *    
+         *     
+         *     
+         *     
+         *     
+         *     
+         *  
 
 ### • Print Character Z 
 
@@ -1198,16 +1191,16 @@ A collection of logic-building pattern programs.
 | :--- |
 | [View Code](Patterns_code/Print_Z.c) |
 
-    * * * * * * * * * * 
-                    *   
-                  *     
-                *       
-              *         
-            *           
-          *             
-        *               
-      *                 
-    * * * * * * * * * * 
+    **********
+            * 
+           *  
+          *   
+         *    
+        *     
+       *      
+      *       
+     *        
+    **********
 
 ### • Name Printing Alphabet Star pattern
 
